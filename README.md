@@ -35,7 +35,7 @@ Worked on developing web applications and an ERP-based Recruitment Management Sy
  - Machine Learning
    
 **Contact / Call to Action**
-*"I'm open to internships, full-time roles, and collaborative projects in AI/ML and software development. Feel free to reach out — I'd love to connect!"*
+*"I'm open to internships, full-time roles, and collaborative projects in AI/ML and software development. Feel free to reach out"*
 
 -  kaavya25062005@gmail.com
 -  +91 6382253141
