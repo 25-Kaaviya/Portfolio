@@ -4,7 +4,7 @@
 
 I am Kaavya M, a final-year B.Tech Information Technology student at Sri Ramakrishna Engineering College, Coimbatore. I am passionate about Artificial Intelligence, Deep Learning, and Machine Learning — and I am interest on problems into smart, working solutions.From predicting stock prices with LSTM networks to detecting heart disease through ECG images in real time, I enjoy building systems that are both technically challenging and genuinely useful. I've also worked hands-on with IoT hardware, cloud platforms, and ERP-based web applications during my internship.I'm currently looking for opportunities where I can grow as an AI/ML engineer and contribute to meaningful products.
 
-**Project Descriptions**
+**Project**
 
 - **Stock Price Prediction**
 Built a deep learning model using LSTM (Long Short-Term Memory) networks to forecast stock prices based on historical data. The model captures time-series patterns and trends to deliver high-accuracy predictions — demonstrating real-world applicability in financial forecasting.
@@ -30,7 +30,6 @@ Worked on developing web applications and an ERP-based Recruitment Management Sy
 - **AWS Academy** — Cloud Foundations
   
 **Area of Interest**
-
  - Deep Learning
  - Artificial Intelligence
  - Machine Learning
