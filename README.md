@@ -6,13 +6,11 @@ I am Kaavya M, a final-year B.Tech Information Technology student at Sri Ramakri
 
 **Project Descriptions**
 
-**Stock Price Prediction**
+- **Stock Price Prediction**
 Built a deep learning model using LSTM (Long Short-Term Memory) networks to forecast stock prices based on historical data. The model captures time-series patterns and trends to deliver high-accuracy predictions — demonstrating real-world applicability in financial forecasting.
-
-**Heart Disease Prediction**
+- **Heart Disease Prediction**
 Designed an AI-powered diagnostic tool using YOLOv8 to analyze ECG images and detect signs of heart disease in real time. This project bridges computer vision and healthcare, aiming to assist early diagnosis and reduce manual workload for medical professionals.
-
-**Student Mental Pressure Monitoring**
+- **Student Mental Pressure Monitoring**
 Created a wearable IoT system that uses physical sensors to measure stress indicators in students. Data is processed with machine learning and streamed to Blynk Cloud for real-time monitoring — helping educators and students identify and address mental pressure early.
 
 **Experience**
