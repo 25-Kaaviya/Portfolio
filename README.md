@@ -1,10 +1,10 @@
 # Portfolio
 
-** About Me**
+**About Me**
 
 I am Kaavya M, a final-year B.Tech Information Technology student at Sri Ramakrishna Engineering College, Coimbatore. I am passionate about Artificial Intelligence, Deep Learning, and Machine Learning — and I am interest on problems into smart, working solutions.From predicting stock prices with LSTM networks to detecting heart disease through ECG images in real time, I enjoy building systems that are both technically challenging and genuinely useful. I've also worked hands-on with IoT hardware, cloud platforms, and ERP-based web applications during my internship.I'm currently looking for opportunities where I can grow as an AI/ML engineer and contribute to meaningful products.
 
-** Project Descriptions**
+**Project Descriptions**
 
 **Stock Price Prediction**
 Built a deep learning model using LSTM (Long Short-Term Memory) networks to forecast stock prices based on historical data. The model captures time-series patterns and trends to deliver high-accuracy predictions — demonstrating real-world applicability in financial forecasting.
@@ -19,21 +19,21 @@ Created a wearable IoT system that uses physical sensors to measure stress indic
 **Software Development Intern — Sri Ethiraja Technologies, Coimbatore**
 Worked on developing web applications and an ERP-based Recruitment Management System. Gained practical experience in full-stack development, understanding client requirements, and delivering functional software in a professional environment.
 
-** Education Summary**
+**Education Summary**
 - B.Tech Information Technology — SREC, CGPA 8.14
 - HSC — Saratha Matric Hr. Sec. School, 91.83%
 - SSLC — Amma Matric Hr. Sec. School, 88.2%
 
-** Certifications — One-liners**
+**Certifications — One-liners**
 - **NVIDIA** — Fundamentals of Deep Learning
 - **IBM** — Enterprise Design Thinking Practitioner
 - **E-Box** — Career Advancement through C Programming
 - **AWS Academy** — Cloud Foundations
   
-** Area of Interest**
+**Area of Interest**
 I'm deeply interested in Deep Learning, Artificial Intelligence, and Machine Learning — particularly in applying these fields to solve problems in healthcare, finance, and human wellbeing.
 
-** Contact / Call to Action**
+**Contact / Call to Action**
 *"I'm open to internships, full-time roles, and collaborative projects in AI/ML and software development. Feel free to reach out — I'd love to connect!"*
 
 -  kaavya25062005@gmail.com
@@ -42,6 +42,6 @@ I'm deeply interested in Deep Learning, Artificial Intelligence, and Machine Lea
 
 
 
----
+
 
 You can copy any of these sections directly into your portfolio. Want me to update the HTML file with all this content added in?
