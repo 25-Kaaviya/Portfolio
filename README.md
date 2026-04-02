@@ -15,8 +15,9 @@ Designed an AI-powered diagnostic tool using YOLOv8 to analyze ECG images and de
 **Student Mental Pressure Monitoring**
 Created a wearable IoT system that uses physical sensors to measure stress indicators in students. Data is processed with machine learning and streamed to Blynk Cloud for real-time monitoring — helping educators and students identify and address mental pressure early.
 
-** Experience**
-**Software Development Intern — Sri Ethiraja Technologies, Coimbatore**
+**Experience**
+
+- **Software Development Intern — Sri Ethiraja Technologies, Coimbatore**
 Worked on developing web applications and an ERP-based Recruitment Management System. Gained practical experience in full-stack development, understanding client requirements, and delivering functional software in a professional environment.
 
 **Education Summary**
@@ -31,8 +32,11 @@ Worked on developing web applications and an ERP-based Recruitment Management Sy
 - **AWS Academy** — Cloud Foundations
   
 **Area of Interest**
-I'm deeply interested in Deep Learning, Artificial Intelligence, and Machine Learning — particularly in applying these fields to solve problems in healthcare, finance, and human wellbeing.
 
+ - Deep Learning
+ - Artificial Intelligence
+ - Machine Learning
+ - 
 **Contact / Call to Action**
 *"I'm open to internships, full-time roles, and collaborative projects in AI/ML and software development. Feel free to reach out — I'd love to connect!"*
 
