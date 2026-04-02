@@ -36,7 +36,7 @@ Worked on developing web applications and an ERP-based Recruitment Management Sy
  - Deep Learning
  - Artificial Intelligence
  - Machine Learning
- - 
+   
 **Contact / Call to Action**
 *"I'm open to internships, full-time roles, and collaborative projects in AI/ML and software development. Feel free to reach out — I'd love to connect!"*
 
@@ -44,8 +44,3 @@ Worked on developing web applications and an ERP-based Recruitment Management Sy
 -  +91 6382253141
   
 
-
-
-
-
-You can copy any of these sections directly into your portfolio. Want me to update the HTML file with all this content added in?
